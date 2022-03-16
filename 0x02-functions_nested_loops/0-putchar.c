@@ -3,7 +3,7 @@
 /**
  * main - prints _putchar
  *
- * Descriptin: prints _putchar
+ * Description: prints _putchar
  *
  * Return: 0 (Success)
  */
