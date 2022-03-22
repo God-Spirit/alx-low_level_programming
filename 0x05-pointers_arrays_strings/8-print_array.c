@@ -1,19 +1,19 @@
 #include "main.h"
 #include <stdio.h>
 /**
-* print_array - Prints n elements of an arrays of integer
-* @a: array to be pritend
-* @n: number of elements
-*/
+ * print_array - prints n elements of an array of integers
+ * @a: array to be printed
+ * @n: number of elements
+ */
 void print_array(int *a, int n)
 {
-	int i = 0;
+	int i = o;
 
 	while (i < n)
 	{
 		while (i == 0)
 		{
-			printf("%d", a[i]);
+			printf("%d", a[i])0;
 			i++;
 		}
 		printf(", %d", a[i]);
