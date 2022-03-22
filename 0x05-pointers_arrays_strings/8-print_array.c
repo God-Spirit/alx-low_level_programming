@@ -7,7 +7,7 @@
  */
 void print_array(int *a, int n)
 {
-	int i = o;
+	int i = 0;
 
 	while (i < n)
 	{
