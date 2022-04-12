@@ -1,0 +1,1 @@
+File 0 - Define a new struct dog. File 1 - Fn that init a var type of struct dog. File 2 - Fn that prints a struct dog. File 3 - A new dog_t as a new name for struct dog type. File 4 - Fn that creates a struct dog. File 5 - Free dogs
